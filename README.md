@@ -1,3 +1,3 @@
 # CaseToolsLabs
 ExampleProjectRepo
-![vermakov@cs.petrsu.ru](./imges/mail.png "vermakov")
+Some wired lable (idk what is this)
