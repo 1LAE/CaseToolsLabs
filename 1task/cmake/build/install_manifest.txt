@@ -1,0 +1,2 @@
+/home/ermvad/tmp/casetools/CaseProgram
+/usr/local/man/man8/caseprogram.8

@@ -1,0 +1,9 @@
+Architecture: 
+Description: The most stupid program ever written
+Maintainer: vermakov@cs.petrsu.ru
+Package: caseprogram
+Priority: optional
+Section: devel
+Version: 0.1.1
+Installed-Size: 60
+

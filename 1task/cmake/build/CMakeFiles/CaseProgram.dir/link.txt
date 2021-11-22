@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -rdynamic CMakeFiles/CaseProgram.dir/src/main.cpp.o CMakeFiles/CaseProgram.dir/src/lib.cpp.o -o CaseProgram  -lpthread -lpcre 
