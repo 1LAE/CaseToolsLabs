@@ -1,3 +1,3 @@
 # CaseToolsLabs
 ExampleProjectRepo
-![vermakov@cs.petrsu.ru](./imges/mail.png "vermakov")
+![vermakov@cs.petrsu.ru](images/mail.png "vermakov")
