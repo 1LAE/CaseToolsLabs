@@ -9,6 +9,7 @@ void type_Yes()
  cout<<(w>=4 && w%2==0?"YES":"NO");
 
 
+
 }
 
 void solve(){
